@@ -1,4 +1,4 @@
-'Habitat type ','Climatic zone','co-ordinate(N)/latitude','co-ordinate€/longitude','elevation(m)','Temperature©','solar_radiation(w/m2)','relative humidity(%)','wind speed(MPH)','soil moisture(%)','soil salinity(Us/Cm)','soil PH','body length(mm)','species'
+Habitat type,Climatic zone,co-ordinate(N)/latitude,co-ordinate€/longitude,elevation(m),Temperature©,solar_radiation(w/m2),relative humidity(%),wind speed(MPH),soil moisture(%),soil salinity(Us/Cm),soil PH,body length(mm),species
 1,1,6.356667,80.016389,1.4,32,1023,67,0,9.37,0,7.5,13.3,1
 1,1,6.356667,80.016389,1.4,32,1023,67,0,9.37,0,7.5,12.2,1
 1,1,6.053056,80.207222,0.9,31,734,77,0,8.16,0,7.5,10.65,1
